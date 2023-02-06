@@ -8,5 +8,5 @@
 
 
 <p align="center">
-    <img width="200" src="https://i.imgur.com/BwQZMXb.png">
+    <img width="600" src="https://i.imgur.com/BwQZMXb.png">
 </p>
