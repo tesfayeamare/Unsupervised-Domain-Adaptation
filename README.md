@@ -22,7 +22,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-#Contact
+# Contact
 Created by [@tesfayeamare](https://github.com/tesfayeamare) - feel free to contact me!
 
 # License
