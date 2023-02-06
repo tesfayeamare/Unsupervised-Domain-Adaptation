@@ -12,4 +12,7 @@
 </p>
 
 # Pytorch version
-pytorch 1.9.0+cu102
+`pytorch 1.9.0+cu102`
+
+## Contact
+Created by [@tesfayeamare](tesfaye.naramo@gmail.com) - feel free to contact me!
