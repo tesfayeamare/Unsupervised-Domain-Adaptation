@@ -10,3 +10,6 @@
 <p align="center">
     <img width="600" src="https://i.imgur.com/BwQZMXb.png">
 </p>
+
+# Pytorch version
+pytorch 1.9.0+cu102
