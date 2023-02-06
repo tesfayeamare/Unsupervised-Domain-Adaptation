@@ -7,5 +7,5 @@
 ##### We first train the model using supervised learning on the source domain and evaluate it as is on the target domain. This approach is referred to as the source-only or baseline version. To achieve this, we simply ignore the domain classifier branch and provide the model with only source domain images and labels during training. In the next step of domain adaptation, we activate the UDAB plugin by also training on the unlabeled target dataset. In this stage, we incorporate the loss of the domain classifier branch.
 
 <div align="center">
-    <img src="[/image.png](https://i.imgur.com/BwQZMXb.png)">
+    <img src="https://i.imgur.com/BwQZMXb.png">
 </div>
