@@ -15,7 +15,10 @@ We first train the model using supervised learning on the source domain and eval
 * Riccardo Ratta
 
 # Pytorch version
-`pytorch 1.9.0+cu102`
+```
+pytorch 1.9.0+cu102
+
+```
 
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
